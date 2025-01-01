@@ -1,0 +1,10 @@
+## 🧠 Prompts
+
+
+**LEONARDO.IA** 
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| cover.jpeg | Create a picture of a futuristic-looking robot, representing artificial intelligence, with a thought cloud above its head. Within the cloud, include the names 'ChatGPT,' 'ElevenLabs.io,' and 'Leonardo.IA,' along with the corresponding website icons, in a harmonious and stylized way. The composition must have a modern design, with vibrant colors and a technological atmosphere. Make sure the robot conveys an expression of reflection or creativity.
+| Leonardo_Anime_podcast.Jpg  | ultra realistic drawing photo of a young woman podcaster, long straight brown hair in a recording studio, recording camera f/8, 1/100, iso 100, complex and dynamic colors, global illumination, ultra realism, realistic true color filters , photos processed with 16k, ultra realistic cinematics, ultra detailed --ar 1:1
+| robot.png | Create an image of a futuristic, stylized robot representing artificial intelligence. He is at the center of the composition, with a friendly and forward appearance. Above the robot's head is a visually clear thought cloud. Within the cloud, the names 'ChatGPT' and 'ElevenLabs.io' appear, accompanied by the official or stylized icons of these sites, in order to reinforce the reference to technology. The scene must have a minimalist and futuristic background, highlighting the robot and its thought cloud as the main elements.
